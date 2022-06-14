@@ -1,3 +1,4 @@
+import utilities;
 def test_number_to_color(pair_number,
                         expected_major_color, expected_minor_color):
   major_color, minor_color = get_color_from_pairnumber(pair_number)
