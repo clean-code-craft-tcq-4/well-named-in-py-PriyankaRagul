@@ -1,4 +1,4 @@
-
+import testfunctions,manual;
 if __name__ == '__main__':
   print_manual();
   test_number_to_pair(4, 'White', 'Brown')
